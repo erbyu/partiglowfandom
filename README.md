@@ -1,2 +1,2 @@
-== The Partiglow Fandom.
-it's literally jsut the poartiglow fandom
+== The Partiglow Fandom. ==
+files for the partiglow fandom
