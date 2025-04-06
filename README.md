@@ -1,2 +1,2 @@
-== The Partiglow Fandom. ==
+# The Partiglow Fandom.
 files for the partiglow fandom
